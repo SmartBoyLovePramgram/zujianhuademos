@@ -1,0 +1,25 @@
+{
+  "name": "Baselib",
+  "version": "0.0.1",
+  "summary": "Baselib",
+  "description": "基础Catogary",
+  "homepage": "www.lixiaoqiang.com",
+  "license": "MIT",
+  "authors": {
+    "lixiaoqiang": "lixiaoqiang@yixia.com"
+  },
+  "source": {
+    "git": "",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/**/*.{h,m}"
+  ],
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}
